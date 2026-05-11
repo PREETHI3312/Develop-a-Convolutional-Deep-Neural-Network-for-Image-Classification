@@ -36,7 +36,7 @@ Image classification is a fundamental task in computer vision where an input ima
 
 ### Register Number:212223230156
 
-```
+```python
 import torch
 import torch.nn as nn
 import torch.optim as optim
